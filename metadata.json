@@ -1,0 +1,6 @@
+{
+  "name": "Blockverse: Neon Blast",
+  "description": "Premium 2026 casual neon block puzzle game featuring dynamic combos, powerups, daily challenges, multiple game modes, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
